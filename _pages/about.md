@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: top
-  image: me-woods.jpg
+  image: ronny-headshot.jpg
   image_circular: false # crops the image to make it circular
   address:
 
@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student in the [Department of English](https://mcgill.ca/english/) at [McGill University](https://mcgill.ca).
+I am a graduate student in the [Department of English](https://english.fas.harvard.edu/) at [Harvard University](https://www.harvard.edu/).
 
 #### Research Interests
 
