@@ -1,9 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"The Channel":
+  url: http://mcgillchannelundergraduatereview.com/
+  color: 
+
+"IDEAH":
+  url: https://ideah.pubpub.org/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Caret":
+  url: https://www.caretjournal.ca/
+  color:
 
-"Vision":
-  color: "#009f36"
+"IJDH": 
+  url: https://link.springer.com/journal/42803 
+  color: "#00369f"

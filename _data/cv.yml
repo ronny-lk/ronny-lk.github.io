@@ -2,96 +2,128 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Ronny Litvack-Katzman
+#    - name: Date of Birth
+#      value: 3rd June 1999
+    - name: Natural Languages
+      value: English, French (Beginner)
+    - name: Programming Languages
+      value: R, Java, CSS, HTML, XML
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master's of Arts, English (M.A.)
+      institution: McGill University, Montréal, Quebec, Canada
+      year: 2021-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Thesis﹕"The Unnatural, Framed﹕Narratives of Evolution and the Science Fiction of H. G. Wells"
+        - Supervisor﹕Prof. Tabitha Sparks
+
+    - title: Bachelor's of Arts and Science (B.A. & Sc.)
+      institution: McGill University, Montréal, Canada
+      year: 2017-2021
       description:
-        - Description 1.
-        - Description 2.
+        - Dual Major in Biology and English Literature
+        - Research Paper﹕"Knowledgeable Practice and the Practice of Knowledge﹕Epistemic Anxieties in 19th-Century Science Fiction"
+        - Supervisors﹕Profs. Michael Nicholson (English) and Lauren Chapman (Biology)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Communications Officer
+      institution: <a href="https://www.mcgill.ca/english/">Department of English</a>, McGill Library
+      year: 2023 - Pres.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Assistant/Project Lead
+      institution: <a href="https://www.mcgill.ca/library/branches/rarebooks">Rare Books and Special Collections</a>, McGill Library
+      year: 2021 - 2023
       description:
+        - Project﹕Ciphers of 'The Times'
+        - PI﹕Prof. Nathalie Cooke
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Teaching Assistant
+      institution: McGill University, Montréal, Canada
+      year: 2021 - 2023
+      description:
+        - ENGL 329 - 19th Century English Novel (Charlotte Brontë)
+        - SOCI 329 - Minorities in Canada
+        - SOCI 235 - Technology and Society
+        - SOCI 210 - Sociological Perspectives
+        
+    - title: Editorial Assistant
+      institution: <a href="https://www.jmirpublications.com/">JMIR Publications</a>, Toronto, Canada
+      year: Jan 2021 - Sep 2021
+
+    - title: Grant and Proposal Writer
+      institution: <a href="https://muhcfoundation.com/">McGill University Health Centre Foundation</a>, Montréal, Canada
+      year: 2019 - 2021
+
+    - title: Undergraduate Research Assistant
+      institution: <a href="https://www.mcgill.ca/chapman-lab/">Chapman Lab</a>, Department of Biology, McGill University, Montréal, Canada
+      year: 2018 - 2020
+
+    - title: Editor, Science and Technology
+      institution: <a href="https://www.mcgilltribune.com/">The McGill Tribune</a>, Montréal, Canada
+      year: 2017 - 2020
+
+- title: Professional Service
+  type: time_table
+  contents:
+    - title: Founder/Organizer
+      institution: Science and Technology Studies Working Group
+      year: 2022 - now
+
+    - title: Graduate Curriculum Representative
+      institution: English Graduate Students Association
+      year: 2021 - 2022
+
+    - title: Director of Event Logistics
+      institution: National Integrative Research Conference (NiRC)
+      year: 2018 - 2019
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://ronny-lk.github.io/wells-variorum/">Wells Digital Variorum</a>
+      year: 2023 - now
+      description: This interactive site, both a bibliographic endeavour and a work of textual criticism, charts variations and emendations in the early novels of H.G. Wells.
+    - title: <a href="https://github.com/libraryponders/ciphersofthetimes">Ciphers of The Times</a>
+      year: 2021 - 2023
+      description: A research project, digital, and physical exhibition in conjunction with the McGill Library exploring nineteenth century newspapers, novels, and cyrptic communication.
 
-- title: Honors and Awards
+- title: Honours and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
+      items: 
+        - NeMLA GSC Travel Award
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Hugh MacLennan Fellowship for the Study of English ($1000)
+        - Graduate Mobility Award ($2500)
+    - year: 2021
       items:
-        - Max Planck Medal
+        - SSHRC Bombardier Canada Graduate Scholarship ($17,500)
+    - year: 2018
+      items:
+        - Science Undergraduate Research Award (SURA) ($7500)
+        - Tomlinson Engagement Award for Mentoring ($300)
 
 - title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - nineteenth century British literature and culture; the novel; science and literature; science and technology studies; science fiction; narrative theory; aesthetics.
+
+- title: Professional Interests
+  type: list
+  contents:
+    - science communication; academic publishing; open-access models; natural and physcial sciences; communication information systems; data sharing; data equity; computational humanities.
