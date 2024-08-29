@@ -50,7 +50,7 @@ The rise of STS as a teaching field reflects a dawning recognition that speciali
 
 <strong> Who are we? </strong>
 
-We are a group of students interested in new ways of engaging science and technology studies from an interdisciplinary perspective. [Learn more](https://mcgillsts.squarespace.com/).
+We are a group of students interested in new ways of engaging science and technology studies from an interdisciplinary perspective.
 
 ***
 
