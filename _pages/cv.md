@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: Litvack-Katzman_CV_2023.pdf
+cv_pdf: Litvack-Katzman_CV_2024.pdf
 ---
