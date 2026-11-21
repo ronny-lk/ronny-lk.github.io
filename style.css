@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: "EB Garamond", Garamond, "Cormorant Garamond", Georgia, serif;
+  font-size: 1.25rem;
+  line-height: 1.6;
+  color: #222;
+  background: #fff;
+}
+main { max-width: 40rem; margin: 4rem auto; padding: 0 1.5rem; }
+h1 { font-size: 1.6rem; font-weight: 600; margin: 0 0 1rem; }
+a { color: #222; }
+ul { padding-left: 1.2rem; margin: 0 0 1rem; }
+.plain { list-style: none; padding: 0; }
+.intro { display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap; }
+.intro img { width: 10rem; }
+.intro div { flex: 1; min-width: 15rem; }
+p { margin: 0 0 1rem; }
